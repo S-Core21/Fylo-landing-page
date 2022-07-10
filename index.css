@@ -70,6 +70,7 @@ header{
     border-radius: 30px;
     font-size: 20px;
     background-color: hsl(198, 60%, 50%);
+    border: none;
 }
 #mainone{
     display: flex;
